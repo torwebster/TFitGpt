@@ -1,0 +1,12 @@
+node_modules
+.next
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.venv/
+apps/api/.venv/
+*.pyc
+coverage/
+.DS_Store
