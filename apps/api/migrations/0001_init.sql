@@ -1,0 +1,2 @@
+-- Initial schema managed by SQLAlchemy models; this file documents bootstrap migration.
+-- In production, convert to Alembic autogenerate revisions.
